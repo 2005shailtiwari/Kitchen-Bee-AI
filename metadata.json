@@ -1,0 +1,6 @@
+{
+  "name": "KitchenBee AI",
+  "description": "Buzzing with Smart Kitchen Ideas! A friendly, modern AI kitchen companion for students, beginners, and home cooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
